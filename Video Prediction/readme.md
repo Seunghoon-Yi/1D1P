@@ -1,3 +1,4 @@
-# Video Prediction - related Paper reviews # <br>
+# Video Prediction - related Paper reviews  <br>
 
-All reviews are linked to my notion or blog. 
+All reviews are linked to my notion or blog. <br>
+
